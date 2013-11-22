@@ -11,7 +11,6 @@
  *       Compiler:  gcc
  *
  *         Author:  Nikolas Pontikos, Msci Bioinformatics, MEng Computer Science
- *        Company:  European Bioinformatics Institute
  *
  * =====================================================================================
  */
